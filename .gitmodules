@@ -1,0 +1,3 @@
+[submodule "content/album"]
+	path = content/album
+	url = https://e.coding.net/denalon/patch/album.git
