@@ -1,5 +1,5 @@
 ---
-title: "二次元"
+title: "好看的二次元"
 date: 2020-09-03T08:22:38+08:00
 # By default, photos are sorted by filename
 sort_by: Name
